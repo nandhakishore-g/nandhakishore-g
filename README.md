@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mobile Application Developer<br>Easy Collaborating with Teams<br>Ready to Learn new Technology
+Mobile Application Developer 📱 <br>Easy Collaborating with Teams 👥 <br>Ready to Learn new Technology 💻
 
 
 # 💻 Tech Stack:
